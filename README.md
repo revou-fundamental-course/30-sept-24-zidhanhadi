@@ -1,1 +1,2 @@
-# Tugas Mini Coding Project Website Konversi Suhu
+# Tugas Mini Coding Project Fundamental Course Software Engineering
+Website Konversi Suhu By Zidhan Hadi Irawan
